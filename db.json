@@ -1,0 +1,10 @@
+{
+  "usuarios": [
+    { "id": 1, "nome": "Administrador", "login": "admin", "pass": "admin" },
+    { "id": 2, "nome": "Usuário teste", "login": "user1", "pass": "user1" }
+  ],
+  "cadastrosimples": [
+    { "id": 1, "campo1": "abc", "campo2": 100 },
+    { "id": 2, "campo1": "def", "curso2": 200 }
+  ]
+}
